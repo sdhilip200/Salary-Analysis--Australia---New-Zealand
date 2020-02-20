@@ -1,0 +1,21 @@
+jobTitle,companyName,meanPay,payRange
+Data Engineer,Telstra,"A$95,492"
+Data Engineer,ANZ Bank,"A$123,643"
+Data Engineer,Insurance Australia Group,"A$72,500"
+Data Engineer,Cognizant Technology Solutions,"A$90,000",A$82K - A$99K
+Data Engineer,Connexity,"A$83,886",A$72K - A$95K
+Data Engineer - Hourly,Commonwealth Bank of Australia,A$104,A$100 - A$108
+Data Engineer,Commonwealth Bank of Australia,"A$156,399",A$149K - A$164K
+Data Engineer - Hourly Contractor,Commonwealth Bank of Australia,A$131,A$125 - A$137
+Data Engineer - Contractor,Commonwealth Bank of Australia,"A$100,000",A$97K - A$105K
+Data Engineer,Telstra,"A$129,485",A$124K - A$134K
+Data Engineer - Hourly Contractor,Telstra,A$104,A$100 - A$109
+Data Engineer,National Australia Bank,"A$65,000",A$62K - A$67K
+Data Engineer,Atlassian,"A$105,493",A$100K - A$110K
+Data Engineer,DXC Technology,"A$120,000",A$115K - A$124K
+Data Engineer,Aurecon,"A$90,000",A$87K - A$94K
+Data Engineer,Coca-Cola Amatil,"A$105,550",A$101K - A$110K
+Data Engineer,News Corp,"A$143,057",A$138K - A$147K
+Data Engineer,Tabcorp,"A$150,855",A$146K - A$156K
+Data Engineer - Monthly Intern,Avanade,€900,€872 - €944
+Data Engineer,Arq Group,"A$70,000",A$68K - A$73K
