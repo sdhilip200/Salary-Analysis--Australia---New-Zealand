@@ -19,39 +19,22 @@ company_name = []
 mean_pay = []
 pay_range = []
 
-for pageno in range(1,207):
+for pageno in range(1,180):
 
     driver = webdriver.Chrome(ChromeDriverManager().install())
     
     #getting webpage in glassdoor
     if pageno == 1:
-        driver.get("https://www.glassdoor.co.nz/Salaries/us-data-scientist-salary-SRCH_IL.0,2_IN1_KO3,17.htm")
+        driver.get("https://www.glassdoor.co.nz/Salaries/us-data-engineer-salary-SRCH_IL.0,2_IN1_KO3,16.htm")
     else:
         driver.get(
-            "https://www.glassdoor.co.nz/Salaries/us-data-scientist-salary-SRCH_IL.0,2_IN1_KO3,17" + "_IP" + str(pageno) + ".htm"
+            "https://www.glassdoor.co.nz/Salaries/us-data-engineer-salary-SRCH_IL.0,2_IN1_KO3,16.htm" + "_IP" + str(pageno) + ".htm"
         )
-    time.sleep(3)
+    time.sleep(1.5)
 
     #parsing the page through lxml option of beautifulsoup
     html = driver.page_source
     soup = BeautifulSoup(html, 'lxml')
-
-    # #get the occ header to write as filename
-    # if soup.find("h1",{'data-test' : 'OccMedianHeader'}):
-    #     fileName = soup.find("h1",{'data-test' : 'OccMedianHeader'}).text
-    # else:
-    #     fileName = "Data Scientist Salaries United States"
-
-    # # open a csv file for writing reviews into
-    # pathAndFileName = os.getcwd() + "/glassDoorReviews/" + fileName + ".csv"
-    # # new_path = os.path.relpath('/glassDoorReviews/' + fileName, cur_path)
-
-    # glassDoorReviews = open(pathAndFileName, 'w')
-    # csvWriter = csv.writer(glassDoorReviews)
-
-    # # writing the header
-    # salaryDataHeader = ["jobTitle","companyName","meanPay","payRange"]
-    # csvWriter.writerow(salaryDataHeader)
 
     #getting each salary block
     salaryBlocks = soup.findAll("div", {'class' : 'row align-items-center m-0 salaryRow__SalaryRowStyle__row'})
@@ -70,8 +53,11 @@ for pageno in range(1,207):
         mean_pay.append(meanPay)
         
         try:
-            payRange = block.find("div", {'class' : 'col-2 d-none d-md-block px-0 py salaryRow__SalaryRowStyle__amt'}).find("span", {'class' : 'strong'}).text
-            pay_range.append(payRange)
+            if block.find("div", {'class' : 'col-2 d-none d-md-block px-0 py salaryRow__SalaryRowStyle__amt'}).find("div", {'class' : 'strong'}):
+                payRange = block.find("div", {'class' : 'col-2 d-none d-md-block px-0 py salaryRow__SalaryRowStyle__amt'}).find("div", {'class' : 'strong'}).text
+                pay_range.append(payRange)
+            elif block.find("div", {'class' : 'col-2 d-none d-md-block px-0 py salaryRow__SalaryRowStyle__amt'}).find("span", {'class' : 'strong'}):
+                pay_range.append("N/A")
         except:
             pay_range.append("N/A")
 
@@ -84,5 +70,5 @@ for item in zip_longest(job_title, company_name, mean_pay, pay_range):
 df = pd.DataFrame(
     final, columns=['jobTitle', 'companyName', 'meanPay', 'payRange'])
 
-df.to_csv("Data Scientist Salaries United States.csv")
+df.to_csv("Data Engineer Salaries United States.csv")
 

@@ -1,0 +1,251 @@
+,Unnamed: 0,jobTitle,companyName,meanPay,payRange,location
+0,0,Machine Learning,Microsoft,"$187,745",$181K - $194K,United States
+1,1,Machine Learning - Hourly Intern,NortonLifeLock,$40,$38 - $42,United States
+2,2,Machine Learning - Hourly Intern,IQVIA,$45,$43 - $46,United States
+3,3,Machine Learning - Hourly Intern,Clarity Insights,$21,$20 - $22,United States
+4,4,Machine Learning Scientist,Amazon,"$141,535",,United States
+5,5,Machine Learning Engineer,Apple,"$149,469",,United States
+6,6,Machine Learning Engineer,Intel Corporation,"$126,660",,United States
+7,7,Machine Learning Scientist II,Amazon,"$147,369",,United States
+8,8,Machine Learning Scientist - Monthly Intern,Amazon,"$7,927",,United States
+9,9,Machine Learning Researcher,GE,"$138,191",,United States
+10,10,Machine Learning Engineer,LinkedIn,"$153,835",,United States
+11,11,Machine Learning Engineer,Spotify,"$151,114",,United States
+12,12,Machine Learning Engineer,IBM,"$90,640",,United States
+13,13,Machine Learning Engineer,Facebook,"$145,810",,United States
+14,14,Machine Learning Engineer,Wayfair,"$108,064",,United States
+15,15,Machine Learning Engineer,FactSet,"$112,982",,United States
+16,16,Machine Learning Engineer,Neustar,"$97,813",,United States
+17,17,Machine Learning Engineer,Petuum,"$120,189",,United States
+18,18,Machine Learning Engineer,Diffbot,"$88,876",,United States
+19,19,Machine Learning Engineer,Amazon,"$129,645",,United States
+20,20,Machine Learning Engineer,Google,"$145,282",,United States
+21,21,Machine Learning Engineer,NIKE,"$120,234",,United States
+22,22,Machine Learning Engineer,SoKat Consulting,"$80,000",,United States
+23,23,Senior Machine Learning Scientist,Amazon,"$162,867",$149K - $178K,United States
+24,24,Machine Learning Engineer,Oracle,"$139,195",$118K - $162K,United States
+25,25,Machine Learning Scientist,Apple,"$143,885",$136K - $151K,United States
+26,26,Researcher & Software Engineer In Machine Learning & Computer Vision,Apple,"$145,306",$129K - $162K,United States
+27,27,Machine Learning Scientist,Google,"$111,993",$72K - $155K,United States
+28,28,Manager Machine Learning Group,Sears,"$106,436",$97K - $115K,United States
+29,29,Machine Learning Specialist,Sears,"$108,935",$101K - $115K,United States
+30,30,Machine Learning Engineer,Qualcomm,"$114,778",$105K - $126K,United States
+31,31,Machine Learning Engineer,Capital One,"$123,054",$106K - $142K,United States
+32,32,Machine Learning Engineer,Bloomberg L.P.,"$246,005",$171K - $330K,United States
+33,33,Machine Learning Engineer,eBay,"$137,943",$118K - $158K,United States
+34,34,Machine Learning Engineer,MITRE,"$105,999",$97K - $115K,United States
+35,35,Machine Learning Engineer,Synopsys,"$117,354",$109K - $126K,United States
+36,36,Software Engineer - Relevance/Machine Learning,Twitter,"$166,940",$159K - $172K,United States
+37,37,"Data Scientist, Machine Learning",Glassdoor,"$128,119",$115K - $141K,United States
+38,38,Software Engineer - Machine Learning,Evernote,"$132,991",$121K - $144K,United States
+39,39,Machine Learning Scientist,Theranos,"$123,674",$101K - $148K,United States
+40,40,Machine Learning Engineer,Riverside Research,"$100,634",$77K - $126K,United States
+41,41,Machine Learning Engineer,Dia&Co,"$137,718",$132K - $144K,United States
+42,42,Machine Learning Engineer,Slice,"$158,298",$134K - $182K,United States
+43,43,Machine Learning Engineer,CognitiveScale,"$117,134",$88K - $148K,United States
+44,44,Machine Learning Engineer,CASTLE GLOBAL,"$174,080",$157K - $194K,United States
+45,45,Computer Scientist In Machine Learning,Cooperfund,"$83,318",$80K - $86K,United States
+46,46,Machine Learning Engineer,Quantiphi,"$84,052",$68K - $101K,United States
+47,47,Researcher In Machine Learning,BlackLocus,"$111,133",$107K - $115K,United States
+48,48,Software Engineer - Machine Learning - Hourly,IBM,$35,$34 - $37,United States
+49,49,Machine Learning Scientist,Microsoft,"$140,791",$136K - $148K,United States
+50,50,Director of Machine Learning Science,Amazon,"$178,660",$173K - $185K,United States
+51,51,Machine Learning Scientist - Intern,Amazon,"$103,415",$99K - $107K,United States
+52,52,Machine Learning Engineer,Wells Fargo,"$80,156",$77K - $83K,United States
+53,53,Machine Learning Scientist,AT&T,"$70,021",$67K - $73K,United States
+54,54,Machine Learning Engineer,J.P. Morgan,"$103,012",$99K - $107K,United States
+55,55,Machine Learning Scientist - Intern,J.P. Morgan,"$124,866",$121K - $131K,United States
+56,56,Machine Learning Engineer - Contractor,Apple,"$72,108",$69K - $74K,United States
+57,57,Machine Learning Engineer - Monthly,Intel Corporation,"$10,170",$10K - $10K,United States
+58,58,Machine Learning Engineer,Macy's,"$162,718",$158K - $169K,United States
+59,59,Machine Learning Engineer,US Navy,"$65,079",$63K - $68K,United States
+60,60,Machine Learning Research Engineer,US Air Force,"$92,184",$89K - $95K,United States
+61,61,Machine Learning Engineer - Hourly,Nordstrom,$40,$39 - $42,United States
+62,62,Machine Learning Engineer,Boeing,"$100,121",$97K - $105K,United States
+63,63,Machine Learning Engineer,Northrop Grumman,"$110,453",$106K - $114K,United States
+64,64,Machine Learning Scientist,GE,"$142,694",$137K - $147K,United States
+65,65,Lead Machine Learning Researcher,GE,"$147,655",$141K - $155K,United States
+66,66,Research Scientist Large - Scale Machine Learning,Xerox,"$110,553",$106K - $114K,United States
+67,67,Machine Learning Engineer - Hourly Intern,SAP,$27,$25 - $27,United States
+68,68,Machine Learning Engineer - Monthly Intern,SAP,"$5,450",$5K - $6K,United States
+69,69,Senior Machine Learning Scientist,General Motors (GM),"$117,735",$113K - $122K,United States
+70,70,Machine Learning Researcher,Bloomberg L.P.,"$159,990",$154K - $168K,United States
+71,71,Machine Learning Scientist,eBay,"$140,696",$135K - $145K,United States
+72,72,Software Engineer Machine Learning - Hourly Intern,Intuit,$45,$43 - $47,United States
+73,73,Machine Learning Engineer,L3 Technologies,"$70,790",$68K - $73K,United States
+74,74,Machine Learning Research Scientist,Pfizer,"$130,471",$126K - $136K,United States
+75,75,Machine Learning Engineer,Pearson,"$124,658",$119K - $131K,United States
+76,76,Machine Learning Engineer,Tesla,"$127,032",$121K - $132K,United States
+77,77,Machine Learning Scientist,Philips,"$100,362",$97K - $105K,United States
+78,78,Machine Learning Scientist - Monthly Intern,Adobe,"$7,871",$8K - $8K,United States
+79,79,Machine Learning Applied Research Engineer,Adobe,"$150,000",$145K - $155K,United States
+80,80,Machine Learning Engineer,Adobe,"$171,653",$164K - $179K,United States
+81,81,Machine Learning Scientist,Yale University,"$57,720",$56K - $60K,United States
+82,82,Machine Learning Analyst - Hourly Intern,NIH,$15,$14 - $16,United States
+83,83,Machine Learning Engineer,Visa Inc.,"$102,140",$98K - $106K,United States
+84,84,Machine Learning Engineer - Hourly Intern,NetApp,$40,$38 - $42,United States
+85,85,Machine Learning Engineer - Hourly Contractor,Insight Global,$78,$75 - $81,United States
+86,86,Machine Learning Engineer,University of Southern California,"$91,651",$87K - $95K,United States
+87,87,Machine Learning Engineer - Monthly,McKinsey & Company,"$5,106",$5K - $5K,United States
+88,88,Machine Learning Engineer,IQVIA,"$72,000",$70K - $75K,United States
+89,89,Machine Learning Scientist,Applied Materials,"$90,344",$88K - $94K,United States
+90,90,Machine Learning Engineer,Boston Consulting Group,"$119,871",$114K - $126K,United States
+91,91,Machine Learning Engineer,Groupon,"$147,914",$143K - $155K,United States
+92,92,Machine Learning Engineer,General Dynamics Mission Systems,"$83,819",$81K - $88K,United States
+93,93,Machine Learning Engineer - Hourly,Autodesk,$33,$31 - $34,United States
+94,94,Machine Learning Engineer - Hourly Intern,Turner Broadcasting,$19,$18 - $20,United States
+95,95,Machine Learning Specialist - Hourly Intern,Weill Cornell Medical College,$27,$26 - $28,United States
+96,96,Machine Learning Engineer - Hourly Intern,Synopsys,$38,$36 - $39,United States
+97,97,Machine Learning Engineer - Monthly Intern,Samsung Electronics,"$6,400",$6K - $7K,United States
+98,98,Machine Learning Engineer,Twitter,"$149,839",$143K - $156K,United States
+99,99,Machine Learning Developer,SAS Institute,"$91,758",$88K - $96K,United States
+100,100,Machine Learning Engineer - Hourly,Cadence Design Systems,$42,$41 - $44,United States
+101,101,Machine Learning Engineer,Zillow,"$140,775",$137K - $146K,United States
+102,102,Machine Learning Engineer,Teradata,"$149,839",$143K - $155K,United States
+103,103,Machine Learning Engineer,Bose,"$100,200",$96K - $104K,United States
+104,104,Machine Learning Research Engineer,Bosch,"$120,000",$116K - $124K,United States
+105,105,Machine Learning Engineer,CBS Interactive,"$107,734",$103K - $112K,United States
+106,106,Machine Learning Analyst,Tripadvisor,"$86,463",$83K - $90K,United States
+107,107,Machine Learning Engineer,Amazon Lab126,"$121,102",$117K - $125K,United States
+108,108,Machine Learning Scientist,University of Nebraska,"$102,016",$98K - $105K,United States
+109,109,Senior Machine Learning Engineer,Instacart,"$219,335",$208K - $228K,United States
+110,110,Machine Learning Research Assistant - Hourly,Syracuse University,$17,$16 - $18,United States
+111,111,Machine Learning Engineer - Monthly Intern,Siemens Healthineers,"$1,941",$2K - $2K,United States
+112,112,Machine Learning Engineer - Hourly Intern,Glassdoor,$41,$39 - $43,United States
+113,113,Machine Learning Engineer,Glassdoor,"$137,270",$132K - $142K,United States
+114,114,Machine Learning Engineer,Square,"$131,467",$127K - $136K,United States
+115,115,Machine Learning Scientist,Intuitive Surgical,"$138,167",$132K - $145K,United States
+116,116,Machine Learning Scientist,Samsung Research America,"$155,188",$150K - $160K,United States
+117,117,Machine Learning Engineer,Brandeis University,"$85,322",$82K - $88K,United States
+118,118,Machine Learning Engineer,Cision,"$105,127",$101K - $109K,United States
+119,119,Machine Learning Scientist,Arm,"$94,816",$91K - $99K,United States
+120,120,Software Engineer (Machine Learning),Spotify,"$138,191",$131K - $145K,United States
+121,121,Machine Learning Scientist - Hourly,The Johns Hopkins Hospital,$27,$25 - $28,United States
+122,122,Software Engineer Machine Learning,Palantir Technologies,"$188,694",$180K - $196K,United States
+123,123,Machine Learning Engineer,Computer Task Group,"$60,993",$58K - $63K,United States
+124,124,Machine Learning Engineer,Quantcast,"$180,678",$173K - $190K,United States
+125,125,Senior Software Engineer Machine Learning,Quantcast,"$148,566",$143K - $154K,United States
+126,126,Machine Learning Instructor - Hourly,iD Tech Camps,$16,$16 - $17,United States
+127,127,Machine Learning Instructor - Monthly,iD Tech Camps,"$2,100",$2K - $2K,United States
+128,128,Machine Learning Engineer,Compass,"$119,871",$116K - $125K,United States
+129,129,Machine Learning Specialist,Dow AgroSciences,"$122,306",$119K - $128K,United States
+130,130,Machine Learning Engineer,Zipcar,"$112,556",$108K - $118K,United States
+131,131,Machine Learning Engineer,ERT,"$75,146",$72K - $77K,United States
+132,132,Machine Learning Scientist III,a2z Development Center,"$146,423",$141K - $151K,United States
+133,133,Machine Learning Engineer,SRC,"$75,271",$72K - $78K,United States
+134,134,Machine Learning Scientist,Edmunds.com,"$146,792",$142K - $151K,United States
+135,135,Machine Learning Researcher,GE Global Research,"$145,736",$141K - $152K,United States
+136,136,Software Engineer Machine Learning Specialist,Belkin,"$143,347",$139K - $150K,United States
+137,137,Machine Learning Engineer,Squarespace,"$127,032",$123K - $132K,United States
+138,138,Machine Learning Engineer,Glidewell Dental,"$110,655",$107K - $115K,United States
+139,139,Software Engineer (Machine Learning),Unity Technologies,"$169,970",$162K - $177K,United States
+140,140,Machine Learning Engineer,Naval Information Warfare Systems Command,"$73,533",$71K - $76K,United States
+141,141,Machine Learning Engineer,Futurewei Technologies,"$105,625",$101K - $109K,United States
+142,142,Machine Learning Engineer - Hourly Intern,Instrumentation Laboratory,$29,$28 - $31,United States
+143,143,Machine Learning Engineer - Hourly,Rayonsoft Technologies,$30,$29 - $32,United States
+144,144,Machine Learning Engineer,ZEISS Group,"$61,101",$59K - $64K,United States
+145,145,Machine Learning Scientist,A9.com,"$161,000",$154K - $167K,United States
+146,146,Software Engineer - Machine Learning,MZ,"$105,618",$102K - $109K,United States
+147,147,Machine Learning/Nlp Lead Engineer,MZ,"$154,895",$149K - $163K,United States
+148,148,Machine Learning Scientist,v2 Ventures,"$91,441",$88K - $96K,United States
+149,149,Machine Learning Engineer,BMW of North America,"$140,000",$135K - $147K,United States
+150,150,Machine Learning Engineer,Mercedes-Benz Research & Development North America,"$115,440",$112K - $120K,United States
+151,151,Machine Learning Scientist,Amobee,"$120,715",$115K - $125K,United States
+152,152,Machine Learning Engineer,Hired,"$142,477",$135K - $149K,United States
+153,153,Machine Learning Engineer,MTSI,"$140,013",$135K - $146K,United States
+154,154,Machine Learning Engineer - Contractor,Sumo Logic,"$161,586",$154K - $168K,United States
+155,155,Data Scientist and Machine Learning Engineer,dataxu,"$112,822",$108K - $117K,United States
+156,156,Machine Learning Engineer,Foursquare,"$146,636",$140K - $152K,United States
+157,157,Machine Learning Engineer,STATS,"$86,444",$82K - $91K,United States
+158,158,Machine Learning Engineer,Jumpstart,"$150,543",$143K - $156K,United States
+159,159,Machine Learning Engineer,C3.ai,"$159,719",$152K - $165K,United States
+160,160,Machine Learning Engineer,"Quora, Inc.","$179,807",$171K - $186K,United States
+161,161,Machine Learning Engineer,CrowdStrike,"$132,232",$128K - $137K,United States
+162,162,Machine Learning Engineer,Scripps Institution of Oceanography,"$99,946",$97K - $103K,United States
+163,163,Machine Learning Engineer,Zest AI,"$153,393",$146K - $160K,United States
+164,164,Machine Learning Modeler,Zest AI,"$109,789",$105K - $115K,United States
+165,165,Machine Learning Expert,Zest AI,"$102,604",$98K - $107K,United States
+166,166,Machine Learning Engineer,Cascades,"$159,990",$154K - $168K,United States
+167,167,Machine Learning Software Engineer,Decisive Analytics Corporation,"$81,359",$78K - $84K,United States
+168,168,Machine Learning Engineer,Call Box,"$71,189",$68K - $74K,United States
+169,169,Machine Learning Engineer,Radiance Technologies,"$77,356",$75K - $81K,United States
+170,170,Machine Learning Engineer,Planet,"$169,818",$164K - $177K,United States
+171,171,Machine Learning Research - Monthly,Baidu,"$8,170",$8K - $9K,United States
+172,172,Machine Learning Engineer,Intertrust Technologies,"$137,396",$133K - $143K,United States
+173,173,Machine Learning Engineer,Avast Software,"$100,121",$96K - $103K,United States
+174,174,Machine Learning Scientist,SOLUTE,"$153,268",$149K - $160K,United States
+175,175,Machine Learning Engineer,Redbeacon,"$122,390",$118K - $128K,United States
+176,176,Machine Learning Engineer,Byton,"$115,416",$111K - $121K,United States
+177,177,Machine Learning Engineer,Reddit,"$135,399",$129K - $140K,United States
+178,178,Machine Learning Engineer,BRAIN CORP,"$132,385",$126K - $139K,United States
+179,179,Machine Learning Scientist,Aureon Laboratories,"$101,972",$98K - $106K,United States
+180,180,Machine Learning Specialist,Aureon Laboratories,"$117,826",$113K - $123K,United States
+181,181,Machine Learning Engineer,Strategic Solutions Group,"$86,809",$84K - $90K,United States
+182,182,Machine Learning Engineer,iManage,"$72,641",$70K - $75K,United States
+183,183,Machine Learning Engineer,KeyMe,"$132,980",$128K - $139K,United States
+184,184,Machine Learning Engineer,Toyota Connected,"$122,039",$117K - $126K,United States
+185,185,Machine Learning Engineer,iOLAP,"$77,106",$75K - $80K,United States
+186,186,Machine Learning Engineer,Nuro,"$167,803",$161K - $175K,United States
+187,187,Machine Learning Software Engineer,Petuum,"$86,660",$83K - $90K,United States
+188,188,Machine Learning Scientist - Contractor,Argo,"$127,992",$122K - $134K,United States
+189,189,Machine Learning Engineer,MTEQ,"$84,304",$81K - $88K,United States
+190,190,Machine Learning Engineer,CED,"$80,306",$78K - $84K,United States
+191,191,Machine Learning Researcher,Systems & Technology Research,"$92,950",$90K - $96K,United States
+192,192,Machine Learning Researcher,HOVER,"$250,000",$240K - $259K,United States
+193,193,Machine Learning Engineer,"Liftoff (Palo Alto, CA)","$140,214",$135K - $147K,United States
+194,194,Machine Learning Engineer,Real Capital Analytics,"$152,482",$146K - $158K,United States
+195,195,Machine Learning Engineer,Kensho Technologies,"$177,809",$171K - $187K,United States
+196,196,Machine Learning Engineer,RevUnit,"$123,576",$119K - $129K,United States
+197,197,Machine Learning Engineer - Hourly,Rockford,$29,$28 - $30,United States
+198,198,Machine Learning Engineer,Trove,"$110,420",$107K - $115K,United States
+199,199,Machine Learning Scientist,Universal Robotics,"$88,582",$86K - $91K,United States
+200,200,Machine Learning Engineer,Cloudwick,"$145,907",$141K - $153K,United States
+201,201,Machine Learning Modeler,Skytree,"$110,298",$106K - $115K,United States
+202,202,Lead Machine Learning Engineer,Atheer,"$107,396",$103K - $112K,United States
+203,203,Machine Learning Engineer,Alpine Data Labs,"$151,000",$145K - $156K,United States
+204,204,Software Engineer (Machine Learning Scientist),AiLive,"$144,808",$140K - $152K,United States
+205,205,Machine Learning Engineer - Hourly,Trendalytics,$59,$57 - $61,United States
+206,206,Machine Learning Engineer,OneWeb,"$69,411",$67K - $72K,United States
+207,207,Machine Learning Engineer,View,"$100,121",$96K - $104K,United States
+208,208,Machine Learning Engineer,Pluto7,"$95,115",$91K - $99K,United States
+209,209,Senior Machine Learning Scientist/Recommendation Qua,Ness Computing,"$200,468",$191K - $208K,United States
+210,210,Senior Machine Learning Scientist/Recommendation Qua - Hourly,Ness Computing,$92,$87 - $95,United States
+211,211,Machine Learning Research Scientist,PNYLab,"$146,875",$140K - $153K,United States
+212,212,Machine Learning Engineer,Primer AI,"$166,845",$159K - $173K,United States
+213,213,Machine Learning Engineer,AMP Robotics,"$82,099",$78K - $85K,United States
+214,214,Machine Learning Engineer,Linc Global,"$132,833",$128K - $138K,United States
+215,215,Machine Learning Engineer - Contractor,Red Pill VR,"$125,935",$120K - $131K,United States
+216,216,Machine Learning Engineer,SkySpecs,"$93,337",$90K - $98K,United States
+217,217,Machine Learning Engineer,Pex,"$115,685",$112K - $119K,United States
+218,218,Machine Learning Engineer,Utrip,"$89,285",$85K - $92K,United States
+219,219,Machine Learning Engineer,TensorIoT,"$90,000",$86K - $93K,United States
+220,220,Machine Learning Scientist,Global AI,"$66,510",$64K - $69K,United States
+221,221,Machine Learning Data Scientist,Pushnami,"$125,480",$119K - $131K,United States
+222,222,Machine Learning Engineer,MuseAmi,"$107,953",$104K - $113K,United States
+223,223,Machine Learning Engineer,Kairos (FL),"$90,519",$87K - $94K,United States
+224,224,Machine Learning Engineer,Daily Pnut,"$80,097",$77K - $84K,United States
+225,225,Senior Software Engineer Machine Learning,Pocket,"$158,601",$152K - $165K,United States
+226,226,Machine Learning Engineer,Amesite,"$91,916",$88K - $95K,United States
+227,227,Machine Learning Engineer,DeepMind,"$150,299",$143K - $156K,United States
+228,228,Machine Learning Engineer,Urbint,"$100,195",$96K - $103K,United States
+229,229,Machine Learning Software Engineer,Algo,"$75,146",$72K - $79K,United States
+230,230,Machine Learning Engineer,Resure Technology,"$120,434",$115K - $126K,United States
+231,231,Machine Learning Research - Hourly,ForwardLane,$35,$34 - $37,United States
+232,232,Machine Learning Scientist,ObEN,"$145,000",$139K - $151K,United States
+233,233,Machine Learning Engineer,inui,"$183,655",$176K - $192K,United States
+234,234,Machine Learning Engineer,insitro,"$124,933",$120K - $130K,United States
+235,235,Machine Learning Scientist,Finzor,"$150,543",$144K - $156K,United States
+236,236,Machine Learning Engineer,Galaxy.AI,"$125,249",$120K - $129K,United States
+237,237,Machine Learning Engineer,Daniel Zaragoza,"$58,985",$56K - $61K,United States
+238,238,Machine Learning Specialist - Hourly Intern,Cadre Research Labs,$23,$22 - $24,United States
+239,239,Machine Learning Engineer,Bot Services,"$93,795",$91K - $98K,United States
+240,240,Machine Learning Scientist - Hourly Contractor,Experiential Sustainability Ethics Training,$53,$50 - $55,United States
+241,241,Machine Learning Engineer,Stradigi AI,"$60,120",$58K - $63K,United States
+242,242,Machine Learning Engineer,Noble.AI,"$125,745",$121K - $131K,United States
+243,243,Machine Learning Engineer,UPMC Enterprises,"$110,812",$106K - $115K,United States
+244,244,Machine Learning Engineer,Happy Elements,"$130,253",$124K - $136K,United States
+245,245,Machine Learning Engineer - Hourly,Optfit,$42,$41 - $44,United States
+246,246,Machine Learning Engineer,Manifold.ai,"$126,410",$121K - $131K,United States
+247,247,Machine Learning Engineer,Feedly,"$125,452",$120K - $131K,United States
+248,248,Machine Learning Scientist,Whiteboard Coordinator,"$131,467",$127K - $137K,United States
+249,249,Machine Learning Engineer,Frélii,"$66,510",$64K - $70K,United States
