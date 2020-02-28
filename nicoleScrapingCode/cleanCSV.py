@@ -33,7 +33,6 @@ os.chdir('../glassDoorReviews')
 # df.to_csv("Data Analyst Salaries in United States.csv")
 
 
-
 # cleaning up columns - removing unnamed columns
 df = pd.read_csv("Data-Professional-Salaries-Master.csv")
 df_new = df.drop(columns=['Unnamed: 0','Unnamed: 0.1','Unnamed: 0.1.1'])
